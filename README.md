@@ -1,34 +1,35 @@
-<!doctype html>
-<html lang="en" class="no-js">
-<head>
-  <base target="_blank">
-  <meta charset="UTF-8" />
-  <title>Anon Developer</title>
-  <link rel="shortcut icon" type="image/png" href="assets/favicon.png">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/style.css" />
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous" type="text/css">
-  <!-- remember, jQuery is completely optional -->
-  <!-- <script type='text/javascript' src='js/jquery-1.11.1.min.js'></script> -->
-  <script type="text/javascript" src="js/jquery.particleground.js"></script>
-  <script type="text/javascript" src="js/demo.js"></script>
-</head>
+# My Portfolio
 
-<body>
+## About Me
 
-<div id="particles">
-  <div id="intro">
-      <h2 style="font-family: 'Syncopate', sans-serif; font-weight: 10;">Anon Developer&nbsp<a href="deedy.pdf" style="color: white;"><img src="https://png.icons8.com/office/40/000000/open-resume.png" height="35" width="35"></a></h2>
-        <hr style="width: 50%; background-color: #E83951; border-color: #E83951;">
-    <a href="https://www.linkedin.com/in/#/" style="color: white;"><i class="fab fa-linkedin" style="font-size: 2em;"></i></a>
-    &nbsp
-    <a href="https://www.facebook.com/#/" style="color: white;"><i class="fab fa-facebook" style="font-size: 2em;"></i></a>
-    &nbsp
-    <a href="https://github.com/#/" style="color: white;"><i class="fab fa-github" style="font-size: 2em;"></i></a>
-    &nbsp
-    <a href="https://medium.com/@#/" style="color: white;"><i class="fab fa-medium" style="font-size: 2em;"></i></a>
-  </div>
-</div>
+Hi, I'm Jane Smith and I'm a research scientist. I have a Ph.D. in Molecular Biology and have been working in the field for the past 10 years. My research interests include cancer biology and gene expression.
 
-</body>
-</html>
+## Education
+
+- Ph.D. in Molecular Biology, XYZ University, 2012
+- B.S. in Biology, ABC University, 2008
+
+## Research Experience
+
+### Postdoctoral Fellow, University of ABC, 2012-present
+- Conducted research on the role of gene X in cancer development
+- Published multiple papers in high-impact scientific journals
+
+### Graduate Research Assistant, XYZ University, 2008-2012
+- Conducted research on the regulation of gene Y expression
+- Contributed to multiple papers published in scientific journals
+
+## Skills
+
+- Molecular biology techniques (e.g. PCR, qPCR, western blotting)
+- Cell culture and transfection
+- Data analysis using software such as R and Excel
+
+## Publications
+
+- Smith, J., et al. (2018). "Regulation of gene X in cancer." Nature Communications.
+- Smith, J., et al. (2016). "Role of gene Y in gene expression." Science.
+
+## Contact Me
+
+You can contact me by email at jane@smith.com or by phone at 555-555-5555. I'm always interested in discussing potential collaborations or opportunities for scientific research.
