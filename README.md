@@ -4,6 +4,8 @@
 
 Hi, I'm Jane Smith and I'm a research scientist. I have a Ph.D. in Molecular Biology and have been working in the field for the past 10 years. My research interests include cancer biology and gene expression.
 
+![A picture of Jane Smith](https://example.com/jane-smith.jpg)
+
 ## Education
 
 - Ph.D. in Molecular Biology, XYZ University, 2012
@@ -33,3 +35,9 @@ Hi, I'm Jane Smith and I'm a research scientist. I have a Ph.D. in Molecular Bio
 ## Contact Me
 
 You can contact me by email at jane@smith.com or by phone at 555-555-5555. I'm always interested in discussing potential collaborations or opportunities for scientific research.
+
+---
+
+##### Footer
+
+Copyright © 2021 Jane Smith
